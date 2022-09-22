@@ -1,0 +1,24 @@
+{
+   "sessionName": "ramlanid",
+   "ownerNumber": "628988986891@s.whatsapp.net",
+   "ownerName": "Akmall Nz",
+   "botName": "Xzn - Botz",
+   "footer": "Xzn-Botz © 2022",
+   "butName": "Tiktok",
+   "butLink": "https://vm.tiktok.com/ZSR9hQAG3/",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "packname": "Instagram :",
+   "author": "https://instagram.com/xzennz_",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
